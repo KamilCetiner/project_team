@@ -101,7 +101,9 @@ font-weight: bold;
 }
 
 
-@media (max-width: 480px) {
+@media (max-width: 380px) {
+
+    
     .photos_1 {
         flex-direction: column;
     }
